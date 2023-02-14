@@ -1,6 +1,12 @@
+### Overview of Awayume
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=dark)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&layout=compact&theme=dark)
-<!--![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=BOT02&theme=dark)-->
+
+#### My self-confidences
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=cfddns&theme=dark)
+
+#### Now developing
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&theme=dark)
 
 <!--
 **Awayume/Awayume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
