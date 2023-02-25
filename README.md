@@ -4,6 +4,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=dark)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=10&layout=compact&theme=dark)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=discord)
+
 ##### skils
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -89,8 +90,13 @@
   </a>
 </p>
 
+##### activity
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Awayume/Awayume/main/img/snake.svg) 
+
+
 #### My self-confidences
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=dark)
+
 
 #### Now developing
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=dark)
