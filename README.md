@@ -1,6 +1,6 @@
 ### Overview of Awayume
 ![GitHub Profile Access Counter](https://komarev.com/ghpvc/?username=Awayume)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Awayume/contributions.svg)](http://qiita.com/Awayume)  
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Awayume/contributions.svg)](http://qiita.com/Awayume)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=dark)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=10&layout=compact&theme=dark)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=discord)
@@ -82,24 +82,21 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
-  <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/>
-  </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   </a>
 </p>
 
 ##### activity
-![github-contribution-grid-snake](https://raw.githubusercontent.com/Awayume/Awayume/main/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/Awayume/Awayume/main/img/snake.svg)
 
 
 #### My self-confidences
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=dark)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=dark)](https://github.com/Awayume/cfddns)
 
 
 #### Now developing
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=dark)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=dark)](https://github.com/Awayume/SSConciliator)
 
 <!--
 **Awayume/Awayume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
