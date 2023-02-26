@@ -1,8 +1,9 @@
 ### Overview of Awayume
 ![GitHub Profile Access Counter](https://komarev.com/ghpvc/?username=Awayume)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Awayume/contributions.svg)](http://qiita.com/Awayume)
+[![Twitter](https://img.shields.io/twitter/follow/Awayume_2007?style=dark)](https://twitter.com/Awayume_2007)  
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=dark)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=10&layout=compact&theme=dark)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=10&layout=compact&theme=dark)  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=discord)
 
 ##### skils
