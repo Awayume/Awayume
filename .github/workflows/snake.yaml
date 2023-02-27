@@ -16,9 +16,12 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: ./img/snake.svg
+          gif_out_path: '/tmp/snake.gif'
+          svg_out_path: './img/snake.svg'
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9.1.1
         with:
-          branch: main
+          branch: 'main'
+          author_name: 'GitHub Actions'
+          author_email: 'no-reply@awayume.jp'
           message: ':rocket: Update snake'
