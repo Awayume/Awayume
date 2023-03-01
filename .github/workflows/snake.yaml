@@ -1,5 +1,8 @@
 name: GenerateSnake
 on:
+  push:
+    branch:
+      - main
   workflow_dispatch:
   schedule:
     - cron: "0 1 * * *"
@@ -11,13 +14,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: rm
+        run: rm -rf img
       - name: Generate Snake
         uses: Platane/snk@v2
-        id: snake-gif
+        id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            './img/snake.svg'
+            ./img/snake.svg
+            ./img/snake_dark.svg?palette=github-dark
+      - name: debug
+        run: |
+          find .
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9.1.1
         with:
