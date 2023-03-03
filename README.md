@@ -106,6 +106,13 @@
 [![Light GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/SSConciliator#gh-light-mode-only)
 [![Dark GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/SSConciliator#gh-dark-mode-only)
 
+#### Donation
+If you want to donate me, please use Bitcoin or [Patreon](https://patreon.com/awayume).  
+My Bitcoin address is:
+```
+3AwayneSu1UwieG8HHEeaUTfBJ9iaayWwe
+```
+
 <!--
 **Awayume/Awayume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
