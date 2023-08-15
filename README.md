@@ -106,8 +106,11 @@
 [![Light GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/SSConciliator#gh-light-mode-only)
 [![Dark GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/SSConciliator#gh-dark-mode-only)
 
-[![Light GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/onyxwall#gh-light-mode-only)
-[![Dark GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/onyxwall#gh-dark-mode-only)
+[![Light GitHub Extra Pins - onyxwall](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/onyxwall#gh-light-mode-only)
+[![Dark GitHub Extra Pins - onyxwall](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/onyxwall#gh-dark-mode-only)
+
+[![Light GitHub Extra Pins - Discorust](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=Discorust&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/Discorust#gh-light-mode-only)
+[![Dark GitHub Extra Pins - Discorust](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=Discorust&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/Discorust#gh-dark-mode-only)
 
 #### Donation
 If you want to donate me, please use Bitcoin or [Patreon](https://patreon.com/awayume).  
