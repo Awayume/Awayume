@@ -116,6 +116,8 @@
 [![Dark GitHub Extra Pins - discorust](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=discorust&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/discorust#gh-dark-mode-only)
 [![Light GitHub Extra Pins - url_parser.rs](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=url_parser.rs&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/url_parser.rs#gh-light-mode-only)
 [![Dark GitHub Extra Pins - url_parser.rs](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=url_parser.rs&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/url_parser.rs#gh-dark-mode-only)
+[![Light GitHub Extra Pins - SoarWings](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SoarWings&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/SoarWings#gh-light-mode-only)
+[![Dark GitHub Extra Pins - SoarWings](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SoarWings&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/SoarWings#gh-dark-mode-only)
 
 
 ### Donation
