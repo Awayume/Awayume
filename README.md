@@ -1,4 +1,4 @@
-### Overview of Awayume
+## Overview of Awayume
 ![GitHub Profile Access Counter](https://komarev.com/ghpvc/?username=Awayume)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Awayume/contributions.svg)](http://qiita.com/Awayume)
 [![Light Twitter follow badge](https://img.shields.io/twitter/follow/Awayume_2007?style=social#gh-light-mode-only)](https://twitter.com/Awayume_2007#gh-light-mode-only)  
@@ -10,7 +10,7 @@
 [![Light GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
 [![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=discord#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
 
-##### skils
+#### skils
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -92,17 +92,17 @@
   </a>
 </p>
 
-##### activity
+#### activity
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Awayume/Awayume/main/img/snake.svg#gh-light-mode-only)
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/Awayume/Awayume/main/img/snake_dark.svg#gh-dark-mode-only)
 
 
-#### My self-confidences
+### My self-confidences
 [![Light GitHub Extra Pins - cfddns](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/cfddns#gh-light-mode-only)
 [![Dark GitHub Extra Pins - cfddns](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/cfddns#gh-dark-mode-only)
 
 
-#### Now developing
+### Now developing
 [![Light GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/SSConciliator#gh-light-mode-only)
 [![Dark GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/SSConciliator#gh-dark-mode-only)
 
@@ -112,24 +112,9 @@
 [![Light GitHub Extra Pins - Discorust](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=Discorust&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/Discorust#gh-light-mode-only)
 [![Dark GitHub Extra Pins - Discorust](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=Discorust&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/Discorust#gh-dark-mode-only)
 
-#### Donation
+### Donation
 If you want to donate me, please use Bitcoin or [Patreon](https://patreon.com/awayume).  
 My Bitcoin address is:
 ```
 3AwayneSu1UwieG8HHEeaUTfBJ9iaayWwe
 ```
-
-<!--
-**Awayume/Awayume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
