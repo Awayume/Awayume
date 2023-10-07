@@ -6,8 +6,8 @@
 <br>
 [![Light GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
 [![Dark GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
-[![Light Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&layout=compact&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
-[![Dark Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
+[![Light Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&hide=batchfile,dockerfile,m4,makefile,shell&layout=compact&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
+[![Dark Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&hide=batchfile,dockerfile,m4,makefile,shell&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
 [![Light GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
 [![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=discord#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
 
