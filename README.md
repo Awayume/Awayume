@@ -1,32 +1,15 @@
 ## Overview of Awayume
-<!-- Badges -->
-<a href="https://github.com/Awayume"><img align="center" src="https://komarev.com/ghpvc/?username=Awayume" /></a>
-<a href="https://github.com/Awayume"><img align="center" src="https://qiita-badge.apiapi.app/s/Awayume/contributions.svg" /></a>
-<a href="https://twitter.com/Awayume_2007#gh-light-mode-only"><img align="center" src="https://img.shields.io/twitter/follow/Awayume_2007?style=social" /></a>
-<a href="https://twitter.com/Awayume_2007#gh-dark-mode-only"><img align="center" src="https://img.shields.io/twitter/follow/Awayume_2007?style=dark" /></a>
+![GitHub Profile Access Counter](https://komarev.com/ghpvc/?username=Awayume)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Awayume/contributions.svg)](http://qiita.com/Awayume)
+[![Light Twitter follow badge](https://img.shields.io/twitter/follow/Awayume_2007?style=social#gh-light-mode-only)](https://twitter.com/Awayume_2007#gh-light-mode-only)
+[![Dark Twitter follow badge](https://img.shields.io/twitter/follow/Awayume_2007?style=dark#gh-dark-mode-only)](https://twitter.com/Awayume_2007#gh-dark-mode-only)
 <br>
-
-<!-- Stats -->
-<!-- Light mode -->
-<a href="https://github.com/Awayume#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=light" />
-</a>
-<a href="https://github.com/Awayume#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&hide=batchfile,dockerfile,m4,makefile,shell&layout=compact&theme=light" />
-</a>
-<a href="https://github.com/Awayume#gh-light-mode-only">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=awayume&column=-1&theme=light" />
-</a>
-<!-- Dark mode -->
-<a href="https://github.com/Awayume#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=dark" />
-</a>
-<a href="https://github.com/Awayume#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&hide=batchfile,dockerfile,m4,makefile,shell&layout=compact&theme=dark" />
-</a>
-<a href="https://github.com/Awayume#gh-dark-mode-only">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=awayume&column=-1&theme=discord" />
-</a>
+[![Light GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
+[![Dark GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
+[![Light Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&hide=batchfile,dockerfile,m4,makefile,shell&layout=compact&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
+[![Dark Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&hide=batchfile,dockerfile,m4,makefile,shell&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
+[![Light GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
+[![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=discord#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
 
 #### skils
 <p align="left">
