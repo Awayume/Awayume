@@ -1,12 +1,13 @@
 ## Overview of Awayume
 ![GitHub Profile Access Counter](https://komarev.com/ghpvc/?username=Awayume)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Awayume/contributions.svg)](http://qiita.com/Awayume)
-[![Light Twitter follow badge](https://img.shields.io/twitter/follow/Awayume_2007?style=social#gh-light-mode-only)](https://twitter.com/Awayume_2007#gh-light-mode-only)  
-[![Dark Twitter follow badge](https://img.shields.io/twitter/follow/Awayume_2007?style=dark#gh-dark-mode-only)](https://twitter.com/Awayume_2007#gh-dark-mode-only)  
+[![Light Twitter follow badge](https://img.shields.io/twitter/follow/Awayume_2007?style=social#gh-light-mode-only)](https://twitter.com/Awayume_2007#gh-light-mode-only)
+[![Dark Twitter follow badge](https://img.shields.io/twitter/follow/Awayume_2007?style=dark#gh-dark-mode-only)](https://twitter.com/Awayume_2007#gh-dark-mode-only)
+<br>
 [![Light GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
 [![Dark GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Awayume&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
-[![Light Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=10&layout=compact&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
-[![Dark Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=10&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
+[![Light Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&layout=compact&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
+[![Dark Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Awayume&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
 [![Light GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=light#gh-light-mode-only)](https://github.com/Awayume#gh-light-mode-only)
 [![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=awayume&theme=discord#gh-dark-mode-only)](https://github.com/Awayume#gh-dark-mode-only)
 
@@ -107,10 +108,8 @@
 ### Now developing
 [![Light GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/SSConciliator#gh-light-mode-only)
 [![Dark GitHub Extra Pins - SSConciliator](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=SSConciliator&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/SSConciliator#gh-dark-mode-only)
-
 [![Light GitHub Extra Pins - onyxwall](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/onyxwall#gh-light-mode-only)
 [![Dark GitHub Extra Pins - onyxwall](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/onyxwall#gh-dark-mode-only)
-
 [![Light GitHub Extra Pins - Discorust](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=Discorust&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/Discorust#gh-light-mode-only)
 [![Dark GitHub Extra Pins - Discorust](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=Discorust&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/Discorust#gh-dark-mode-only)
 
