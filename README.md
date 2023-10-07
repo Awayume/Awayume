@@ -100,6 +100,8 @@
 ### My self-confidences
 [![Light GitHub Extra Pins - cfddns](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/cfddns#gh-light-mode-only)
 [![Dark GitHub Extra Pins - cfddns](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/cfddns#gh-dark-mode-only)
+[![Light GitHub Extra Pins - github-pr-tasklist-checker](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=github-pr-tasklist-checker&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/github-pr-tasklist-checker#gh-light-mode-only)
+[![Dark GitHub Extra Pins - github-pr-tasklist-checker](https://github-readme-stats.vercel.app/api/pin/?username=Awayume&repo=github-pr-tasklist-checker&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/github-pr-tasklist-checker#gh-dark-mode-only)
 
 
 ### Now developing
