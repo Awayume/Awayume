@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         id: snake-svg
         with:
           github_user_name: ${{ github.repository_owner }}
