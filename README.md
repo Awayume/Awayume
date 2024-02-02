@@ -106,6 +106,8 @@
 
 
 ### Now developing
+[![Light GitHub Extra Pins - AegisDB](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=AegisDB&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/AegisDB#gh-light-mode-only)
+[![Dark GitHub Extra Pins - AegisDB](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=AegisDB&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/AegisDB#gh-dark-mode-only)
 [![Light GitHub Extra Pins - onyxwall](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/onyxwall#gh-light-mode-only)
 [![Dark GitHub Extra Pins - onyxwall](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/onyxwall#gh-dark-mode-only)
 [![Light GitHub Extra Pins - bitnode-bees](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=bitnode-bees&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/bitnode-bees#gh-light-mode-only)
