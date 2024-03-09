@@ -118,6 +118,12 @@
 [![Dark GitHub Extra Pins - url_parser.rs](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=url_parser.rs&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/url_parser.rs#gh-dark-mode-only)
 [![Light GitHub Extra Pins - SoarWings](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=SoarWings&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/SoarWings#gh-light-mode-only)
 [![Dark GitHub Extra Pins - SoarWings](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=SoarWings&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/SoarWings#gh-dark-mode-only)
+[![Light GitHub Extra Pins - mouseos/block-twitter-spam](https://github-readme-stats.awayume.jp/api/pin/?username=mouseos&repo=block-twitter-spam&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/mouseos/block-twitter-spam#gh-light-mode-only)
+[![Dark GitHub Extra Pins - mouseos/block-twitter-spam](https://github-readme-stats.awayume.jp/api/pin/?username=mouseos&repo=block-twitter-spam&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/mouseos/block-twitter-spam#gh-dark-mode-only)
+[![Light GitHub Extra Pins - enhanced-e-gov-api](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=enhanced-e-gov-api&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/enhanced-e-gov-api#gh-light-mode-only)
+[![Dark GitHub Extra Pins - enhanced-e-gov-api](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=enhanced-e-gov-api&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/enhanced-e-gov-api#gh-dark-mode-only)
+[![Light GitHub Extra Pins - nvg](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=nvg&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/nvg#gh-light-mode-only)
+[![Dark GitHub Extra Pins - nvg](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=nvg&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/nvg#gh-dark-mode-only)
 
 
 ### Donation
