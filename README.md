@@ -99,31 +99,31 @@
 
 
 ### My confident works
-[![Light GitHub Extra Pins - cfddns](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/cfddns#gh-light-mode-only)
-[![Dark GitHub Extra Pins - cfddns](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=cfddns&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/cfddns#gh-dark-mode-only)
-[![Light GitHub Extra Pins - github-pr-tasklist-checker](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=github-pr-tasklist-checker&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/github-pr-tasklist-checker#gh-light-mode-only)
-[![Dark GitHub Extra Pins - github-pr-tasklist-checker](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=github-pr-tasklist-checker&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/github-pr-tasklist-checker#gh-dark-mode-only)
+[![Light GitHub Extra Pins - cfddns](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=cfddns&theme=light#gh-light-mode-only)](https://github.com/Awayume/cfddns#gh-light-mode-only)
+[![Dark GitHub Extra Pins - cfddns](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=cfddns&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/cfddns#gh-dark-mode-only)
+[![Light GitHub Extra Pins - github-pr-tasklist-checker](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=github-pr-tasklist-checker&theme=light#gh-light-mode-only)](https://github.com/Awayume/github-pr-tasklist-checker#gh-light-mode-only)
+[![Dark GitHub Extra Pins - github-pr-tasklist-checker](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=github-pr-tasklist-checker&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/github-pr-tasklist-checker#gh-dark-mode-only)
 
 
 ### Now developing
-[![Light GitHub Extra Pins - AegisDB](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=AegisDB&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/AegisDB#gh-light-mode-only)
-[![Dark GitHub Extra Pins - AegisDB](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=AegisDB&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/AegisDB#gh-dark-mode-only)
-[![Light GitHub Extra Pins - onyxwall](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/onyxwall#gh-light-mode-only)
-[![Dark GitHub Extra Pins - onyxwall](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=onyxwall&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/onyxwall#gh-dark-mode-only)
-[![Light GitHub Extra Pins - bitnode-bees](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=bitnode-bees&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/bitnode-bees#gh-light-mode-only)
-[![Dark GitHub Extra Pins - bitnode-bees](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=bitnode-bees&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/bitnode-bees#gh-dark-mode-only)
-[![Light GitHub Extra Pins - discorust](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=discorust&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/discorust#gh-light-mode-only)
-[![Dark GitHub Extra Pins - discorust](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=discorust&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/discorust#gh-dark-mode-only)
-[![Light GitHub Extra Pins - url_parser.rs](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=url_parser.rs&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/url_parser.rs#gh-light-mode-only)
-[![Dark GitHub Extra Pins - url_parser.rs](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=url_parser.rs&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/url_parser.rs#gh-dark-mode-only)
-[![Light GitHub Extra Pins - SoarWings](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=SoarWings&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/SoarWings#gh-light-mode-only)
-[![Dark GitHub Extra Pins - SoarWings](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=SoarWings&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/SoarWings#gh-dark-mode-only)
+[![Light GitHub Extra Pins - AegisDB](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=AegisDB&theme=light#gh-light-mode-only)](https://github.com/Awayume/AegisDB#gh-light-mode-only)
+[![Dark GitHub Extra Pins - AegisDB](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=AegisDB&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/AegisDB#gh-dark-mode-only)
+[![Light GitHub Extra Pins - onyxwall](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=onyxwall&theme=light#gh-light-mode-only)](https://github.com/Awayume/onyxwall#gh-light-mode-only)
+[![Dark GitHub Extra Pins - onyxwall](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=onyxwall&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/onyxwall#gh-dark-mode-only)
+[![Light GitHub Extra Pins - bitnode-bees](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=bitnode-bees&theme=light#gh-light-mode-only)](https://github.com/Awayume/bitnode-bees#gh-light-mode-only)
+[![Dark GitHub Extra Pins - bitnode-bees](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=bitnode-bees&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/bitnode-bees#gh-dark-mode-only)
+[![Light GitHub Extra Pins - discorust](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=discorust&theme=light#gh-light-mode-only)](https://github.com/Awayume/discorust#gh-light-mode-only)
+[![Dark GitHub Extra Pins - discorust](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=discorust&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/discorust#gh-dark-mode-only)
+[![Light GitHub Extra Pins - url_parser.rs](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=url_parser.rs&theme=light#gh-light-mode-only)](https://github.com/Awayume/url_parser.rs#gh-light-mode-only)
+[![Dark GitHub Extra Pins - url_parser.rs](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=url_parser.rs&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/url_parser.rs#gh-dark-mode-only)
+[![Light GitHub Extra Pins - SoarWings](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=SoarWings&theme=light#gh-light-mode-only)](https://github.com/Awayume/SoarWings#gh-light-mode-only)
+[![Dark GitHub Extra Pins - SoarWings](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=SoarWings&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/SoarWings#gh-dark-mode-only)
 [![Light GitHub Extra Pins - mouseos/block-twitter-spam](https://github-readme-stats.awayume.jp/api/pin/?username=mouseos&repo=block-twitter-spam&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/mouseos/block-twitter-spam#gh-light-mode-only)
 [![Dark GitHub Extra Pins - mouseos/block-twitter-spam](https://github-readme-stats.awayume.jp/api/pin/?username=mouseos&repo=block-twitter-spam&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/mouseos/block-twitter-spam#gh-dark-mode-only)
-[![Light GitHub Extra Pins - enhanced-e-gov-api](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=enhanced-e-gov-api&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/enhanced-e-gov-api#gh-light-mode-only)
-[![Dark GitHub Extra Pins - enhanced-e-gov-api](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=enhanced-e-gov-api&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/enhanced-e-gov-api#gh-dark-mode-only)
-[![Light GitHub Extra Pins - nvg](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=nvg&show_owner=true&theme=light#gh-light-mode-only)](https://github.com/Awayume/nvg#gh-light-mode-only)
-[![Dark GitHub Extra Pins - nvg](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=nvg&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/nvg#gh-dark-mode-only)
+[![Light GitHub Extra Pins - enhanced-e-gov-api](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=enhanced-e-gov-api&theme=light#gh-light-mode-only)](https://github.com/Awayume/enhanced-e-gov-api#gh-light-mode-only)
+[![Dark GitHub Extra Pins - enhanced-e-gov-api](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=enhanced-e-gov-api&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/enhanced-e-gov-api#gh-dark-mode-only)
+[![Light GitHub Extra Pins - nvg](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=nvg&theme=light#gh-light-mode-only)](https://github.com/Awayume/nvg#gh-light-mode-only)
+[![Dark GitHub Extra Pins - nvg](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=nvg&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/nvg#gh-dark-mode-only)
 
 
 ### Donation
