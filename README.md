@@ -124,6 +124,8 @@
 [![Dark GitHub Extra Pins - enhanced-e-gov-api](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=enhanced-e-gov-api&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/enhanced-e-gov-api#gh-dark-mode-only)
 [![Light GitHub Extra Pins - nvg](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=nvg&theme=light#gh-light-mode-only)](https://github.com/Awayume/nvg#gh-light-mode-only)
 [![Dark GitHub Extra Pins - nvg](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=nvg&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/nvg#gh-dark-mode-only)
+[![Light GitHub Extra Pins - tomlib4j](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=tomlib4j&theme=light#gh-light-mode-only)](https://github.com/Awayume/tomlib4j#gh-light-mode-only)
+[![Dark GitHub Extra Pins - tomlib4j](https://github-readme-stats.awayume.jp/api/pin/?username=Awayume&repo=tomlib4j&theme=dark#gh-dark-mode-only)](https://github.com/Awayume/tomlib4j#gh-dark-mode-only)
 
 
 ### Donation
